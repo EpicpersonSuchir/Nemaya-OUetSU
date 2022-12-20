@@ -1,0 +1,14 @@
+.heading {
+    font-size: 30px;
+    width: 101%;
+    margin: 3.5px;
+    box-shadow: 21px;
+    padding: 2.2px;
+}
+.canvas {
+    height: 675px;
+    width: 1200;
+}
+body {
+    background-size: cover;
+}
